@@ -14,6 +14,7 @@ public class screen implements ActionListener {
         JFrame jFrame= new JFrame(   "Psicologa Marta");
         jFrame.setVisible(true);
         jFrame.setSize(800,500);
+
         jFrame.setTitle("Psicologa Marta");
         jFrame.setDefaultCloseOperation(jFrame.EXIT_ON_CLOSE);
         jFrame.setResizable(false);
